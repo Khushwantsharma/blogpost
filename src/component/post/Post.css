@@ -1,0 +1,26 @@
+.post{
+    width: 70%;
+    margin:auto;
+    margin-top: 2%;
+    margin-bottom:2%;
+    border: 2px solid limegreen;
+    border-radius: 5px;
+}
+.post__author{
+    text-align: center;
+    display: block;
+    margin: 1% 2%;
+    margin-left: 11%;
+}
+.post__title{
+    text-align: center;
+    display:block;
+    margin: 1% 2%;
+}
+.post__content{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin: 1% 2%;
+    
+}

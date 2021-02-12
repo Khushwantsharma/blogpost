@@ -1,0 +1,18 @@
+.nav{
+    height:9vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgreen;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.nav__sub{
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+}
+a.active{
+    background-color: blueviolet;
+}

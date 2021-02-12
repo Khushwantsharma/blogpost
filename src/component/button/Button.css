@@ -1,0 +1,40 @@
+.button{
+    border-color: skyblue;
+    font-size: 22;
+    padding: 2px 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    color: limegreen;
+}
+.button--shadow{
+    box-shadow: 2px 2px limegreen;
+}
+.button--outline{
+    border-radius: 0px;
+    outline-style: solid;
+    -moz-outline-radius: 5px;
+}
+
+.button--disabled{
+    color: grey;
+    background-color: lightgray;
+    border-color: darkgrey;
+    box-shadow: 0px 0px darkgrey;
+
+}
+.button--active{
+    color:darkgreen;
+
+}
+.button--flo{
+    float:right;
+}
+.button--margin{
+    margin:2px 3px;
+}
+.button--underline{
+    border-color:transparent;
+    color:black;
+    background-color: transparent;
+    font-size: 20px;
+}
